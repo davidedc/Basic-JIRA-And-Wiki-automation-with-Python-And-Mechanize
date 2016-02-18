@@ -2,7 +2,7 @@
 Some quick and dirty automation involving JIRA and wiki (Confluence wiki), for example creating a dependency report from JIRA and sticking it in a wiki page.
 
 ## More info
-If one wants to export data from JIRA, the best way is get database exports from the backend.
+If one wants to export data from JIRA, the best way is get it via the API.
 
 That said, it might be occasionally needed to do basic automation for which there is no API. In that case it might be OK to access features directly via the web UI interface. Also this tecnique might be handy for some quick automation hacks.
 
