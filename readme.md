@@ -1,6 +1,8 @@
 ## Summary
 Some quick and dirty automation involving JIRA and wiki (Confluence wiki), for example creating a dependency report from JIRA and sticking it in a wiki page.
 
+(see also my other JIRA-related projects [here](https://github.com/davidedc/JIRA-composable-command-line-tools) [here](https://github.com/davidedc/Customise-JIRA-Cards-Appearance) [here](https://github.com/davidedc/JIRA-multi-board-view) and [here](https://github.com/davidedc/QR-and-JIRA-check-in-check-out-system))
+
 ## More info
 If one wants to export data from JIRA, the best way is get it via the API.
 
